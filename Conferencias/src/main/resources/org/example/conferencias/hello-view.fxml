@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.web.WebView?>
+<?import javafx.scene.layout.StackPane?>
+
+<StackPane xmlns:fx="https://www.google.com" fx:controller="org.example.conferencias.HelloController">
+    <WebView fx:id="webView" />
+</StackPane>
